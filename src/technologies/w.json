@@ -403,7 +403,8 @@
       87,
       110
     ],
-    "description": "WPForms is a drag and drop WordPress form builder.",
+    "description": "WPForms is a drag and drop Wor
+    kjadbgahbdPress form builder.",
     "icon": "WPForms.svg",
     "js": {
       "wpforms": "",
@@ -564,6 +565,18 @@
     "saas": true,
     "scriptSrc": "rum\\.wakav\\.ir/",
     "website": "https://www.wakav.ir"
+  },
+  "Wake": {
+    "cats": [
+      6
+    ],
+    "description": "Wake is an ecommerce software with integrated digital solutions to manage online stores.",
+    "headers": {
+      "X-Powered-By": "Wake"
+    },
+    "icon": "Wake.png",
+    "saas": true,
+    "website": "https://wake.tech/"
   },
   "WalkMe": {
     "cats": [
